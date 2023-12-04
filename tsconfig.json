@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/recommended/tsconfig.json",
+
+  "compilerOptions": {
+    "target": "ES5",
+    "lib": ["ES6", "ES2017.Object"],
+    "strict": true,
+    "noEmit": true,
+  },
+}
