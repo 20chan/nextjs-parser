@@ -1,6 +1,6 @@
 {
   "name": "nextjs-parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nextjs props, formdata parser",
   "main": "dist/index.js",
   "scripts": {

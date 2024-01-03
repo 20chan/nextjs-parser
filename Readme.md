@@ -5,7 +5,7 @@ NextJS page props, especially UrlSearchParams parser utility in NextJS v13 app r
 In NextJS v13 app routing, [Page](https://nextjs.org/docs/app/api-reference/file-conventions/page) can get params, searchParams from url.
 But searchParams is not URLSearchParams, it is just plain object. So this library parse it to schema and make url navigation easy.
 
-There will be support for react's FormData type used in server action in a similar way.
+Also supports number/boolean parsing of FormData used in [server action](https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations).
 
 ## Installation
 
