@@ -1,4 +1,4 @@
-export type NextParams = { slug: string };
+export type NextParams = Record<string, string | string[]>;
 export type NextSearchParams = Record<string, string | string[]>;
 
 export type NextProps = {
